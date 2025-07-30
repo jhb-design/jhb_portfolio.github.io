@@ -607,7 +607,7 @@ header.sticky{
 }
 
 .bar .html:before{
-  width: 70%;
+  width: 60%;
 }
 
 .bar .css:before{
@@ -615,7 +615,7 @@ header.sticky{
 }
 
 .bar .javascript:before{
-  width: 50%;
+  width: 40%;
 }
 
 .bar .figma:before{
@@ -623,7 +623,7 @@ header.sticky{
 }
 
 .bar .adobe-xd:before{
-  width: 70%;
+  width: 50%;
 }
 
 .bar .c4d:before{
