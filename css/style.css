@@ -618,6 +618,14 @@ header.sticky{
   width: 40%;
 }
 
+.bar .react:before{
+  width: 50%;
+}
+
+.bar .wordpress:before{
+  width: 70%;
+}
+
 .bar .figma:before{
   width: 70%;
 }
